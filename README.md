@@ -1,3 +1,5 @@
+Resource: https://preview.uxpin.com/73da93fac0f022f60cab7efb69a6408bd5d5d22c#/pages/90816540/simulate/no-panels?mode=i
+
 <h1>Device Previews</h1>
 
 <h2>iPad Pro</h2>

@@ -3,7 +3,7 @@ Simulation: https://preview.uxpin.com/73da93fac0f022f60cab7efb69a6408bd5d5d22c#/
 Specifications: https://preview.uxpin.com/73da93fac0f022f60cab7efb69a6408bd5d5d22c#/pages/90816540/specification/no-panels?mode=i
 
 <h1>Project Goal</h1>
-Create a working prototype in correspondence to the .edu homepage simulation (located above). This project was created for the Marketing department of University of Phoenix. 
+Create a working prototype in correspondence to the .edu homepage simulation (located above). This project was created for the Marketing department of University of Phoenix in September of 2018. 
 
 <h1>Technologies Used</h1>
   <ul>

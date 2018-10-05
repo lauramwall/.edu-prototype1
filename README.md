@@ -9,7 +9,7 @@ Create a working prototype in correspondence to the .edu homepage simulation (lo
   <ul>
     <li>HTML5</li>
     <li>CSS3</li>
-    <li>Developed using Brackets.io</li>
+    <li>Brackets.io</li>
   </ul>
 
 <h1>Device Previews</h1>
